@@ -112,14 +112,15 @@ Create a database specific to osTicket and provide credentials. Go to "osTicket-
 <img width="1372" height="1532" alt="image" src="https://github.com/user-attachments/assets/04a20ac4-0ae5-4055-836b-63a617a7b011" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To continue setup go back to "osTicket Installer" in the browser. Fill out Database Settings. 
+MySQL Database: "osTicket", MySQL Username: "root", and My SQL Password: "root". Click "Install Now".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="755" height="591" alt="image" src="https://github.com/user-attachments/assets/b24d8230-906c-45f5-89ab-34d2540c3155" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Upon completion you should see a window on the site congratulating you on successfully installing osTicket.
 </p>
 <br />
