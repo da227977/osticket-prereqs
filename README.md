@@ -18,12 +18,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- 1. Extract files for osTicket installation
-- 2. Install and enable Internet Information Services (IIS)
-- 3. Install PHP Manager for IIS and Rewrite Module
-- 4. Create the directory C:\PHP, install VC redist.x86.exe. and MySQL 5.5.62
-- 5. Open IIS as an Admin, register PHP from wihtin IIS and reload IIS
-- 6. Ready to install osTicket v1.15.8
+-  Extract files for osTicket installation
+-  Install and enable Internet Information Services (IIS)
+-  Install PHP Manager for IIS and Rewrite Module
+-  Create the directory C:\PHP, install VC redist.x86.exe. and MySQL 5.5.62
+-  Open IIS as an Admin, register PHP from wihtin IIS and reload IIS
+-  Ready to install osTicket v1.15.8
 
 
 <h2>Installation Steps</h2>
