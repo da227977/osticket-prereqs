@@ -93,10 +93,10 @@ Permissions need to be assigned to "ost-config.php". Right click on file and go 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1774" height="1582" alt="image" src="https://github.com/user-attachments/assets/0fbab69c-5877-4bb0-bf00-1e01c8456f92" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go back to osTicket Installer website and click on "Continue" and fill in required fields. 
 </p>
 <br />
 
