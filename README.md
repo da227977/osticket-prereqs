@@ -85,10 +85,10 @@ Rename "ost-sampleconfig.php" to "ost-config.php". Browse to the following path;
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="714" height="489" alt="image" src="https://github.com/user-attachments/assets/3e139e51-ed43-424b-9dcb-c51ea7aaba93" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Permissions need to be assigned to "ost-config.php". Right click on file and go to "Properties", "Security", "Advanced" and then click on "Disable inheritance". Select and click on "Remove all inherited permissions from this object.", there are now no permissions. Click on "Add" then "Select a principal" and type in "everyone" (this is only for use in the lab as you would not add "everyone" in real life for security reasons). Click "Ok" then check "Full control" and click "Ok". Everyone should now have full control in "ost-config.php".
 </p>
 <br />
 
