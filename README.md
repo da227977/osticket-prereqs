@@ -12,7 +12,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>Operating System Used </h2>
 
 - Windows 11</b> (24H2)
 
