@@ -88,7 +88,7 @@ Rename "ost-sampleconfig.php" to "ost-config.php". Browse to the following path;
 <img width="714" height="489" alt="image" src="https://github.com/user-attachments/assets/3e139e51-ed43-424b-9dcb-c51ea7aaba93" />
 </p>
 <p>
-Permissions need to be assigned to "ost-config.php". Right click on file and go to "Properties", "Security", "Advanced" and then click on "Disable inheritance". Select and click on "Remove all inherited permissions from this object.", there are now no permissions. Click on "Add" then "Select a principal" and type in "everyone" (this is only for use in the lab as you would not add "everyone" in real life for security reasons). Click "Ok" then check "Full control" and click "Ok". Everyone should now have full control in "ost-config.php".
+Permissions need to be assigned to "ost-config.php". Right click on file and go to "Properties", "Security", "Advanced" and then click on "Disable inheritance". Select and click on "Remove all inherited permissions from this object.", there are now no permissions. Click on "Add" then "Select a principal" and type in "everyone" (this is only for use in the lab as you would not add "everyone" in real life for security reasons). Click "Ok" then check "Full control" and click "Apply" then "Ok". Everyone should now have full control in "ost-config.php".
 </p>
 <br />
 
