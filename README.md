@@ -48,15 +48,15 @@ A new folder will be created, "osTicket-v1.15.8". Open the folder and you will s
 <img width="1620" height="978" alt="image" src="https://github.com/user-attachments/assets/1abe56e8-ccb7-4fb7-b016-3c053cd2bedb" />
 </p>
 <p>
-Within "C:\inetpub\wwwroot", rename "upload" to "os Ticket". Reload IIS (Open IIS, Stop and Start the server).  
+Within "C:\inetpub\wwwroot", rename "upload" to "os Ticket". 
 </p>
 <br /> 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1952" height="978" alt="image" src="https://github.com/user-attachments/assets/068a97d4-3680-4902-b8b2-6fb5ea7cb62a" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Reload IIS (Open IIS, Stop and Start the server).   
 </p>
 <br />
 
