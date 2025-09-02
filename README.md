@@ -69,10 +69,10 @@ If successful you will be taken to the "osTicket Installer" site. You will notic
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1204" height="1340" alt="image" src="https://github.com/user-attachments/assets/fb4cfcd9-7680-4eac-b167-360d1f6dd4aa" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In order to enable required extensions go back to "IIS", "Sites", "Default Web Site", and "osTicket". Click on "PHP Manager" and then on "Enable or disable an extension". Find and enable the following: "php_imap.dll", "php_intl.dll", and "php_opcache.dll". Refresh the "osTicket" site in your browser and observe the changes.
 </p>
 <br />
 
