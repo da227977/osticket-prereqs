@@ -61,10 +61,10 @@ Reload IIS (Open IIS, Stop and Start the server). Now you can attempt to load th
 <br />
 
 <p>
-<img width="1600" height="954" alt="image" src="https://github.com/user-attachments/assets/cf5afdb7-20a5-4295-a0c3-7ce0c1714b29" />
+<img width="1204" height="1340" alt="image" src="https://github.com/user-attachments/assets/51e84060-e1a2-467d-8cd5-74f4447670ca" />
 </p>
 <p>
-If successful you will be taken to the "osTicket Installer" site.
+If successful you will be taken to the "osTicket Installer" site. You will notice that some extensions are not enabled.
 </p>
 <br />
 
