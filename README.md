@@ -56,15 +56,15 @@ Within "C:\inetpub\wwwroot", rename "upload" to "os Ticket".
 <img width="1952" height="978" alt="image" src="https://github.com/user-attachments/assets/068a97d4-3680-4902-b8b2-6fb5ea7cb62a" />
 </p>
 <p>
-Reload IIS (Open IIS, Stop and Start the server).   
+Reload IIS (Open IIS, Stop and Start the server). Now you can attempt to load the osTicket site. Go to "sites", "Default Web Site", "osTicket" and then on the right click "Browse *.80 (http)".   
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1600" height="954" alt="image" src="https://github.com/user-attachments/assets/cf5afdb7-20a5-4295-a0c3-7ce0c1714b29" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+If successful you will be taken to the "osTicket Installer" site.
 </p>
 <br />
 
