@@ -80,7 +80,7 @@ In order to enable required extensions go back to "IIS", "Sites", "Default Web S
 <img width="1780" height="1108" alt="image" src="https://github.com/user-attachments/assets/89e51b01-cf2a-4794-ba07-a320063fc550" />
 </p>
 <p>
-Change "ost-sampleconfig.php" to "ost-config.php". Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Rename "ost-sampleconfig.php" to "ost-config.php". Browse to the following path; "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php". It is very important that you do not make any typos when renaming. It must read "ost-config.php". 
 </p>
 <br />
 
