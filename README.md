@@ -30,28 +30,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img width="1620" height="788" alt="image" src="https://github.com/user-attachments/assets/b039d7e8-96ca-412a-937e-dde039d714c5" />
-
 </p>
 <p>
 Go to the "osTicket-Installation-Files" folder, unzip/extract all "osTicket-v1.15.8". Copy the "upload" folder into "C:\inetpub\wwwroot". Within "C:\inetpub\wwwroot", rename "upload" to "osTicket".
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
 <p>
 <img width="1620" height="978" alt="image" src="https://github.com/user-attachments/assets/50395cd0-7a51-46ad-96f9-669be1765ea8" />
-
 </p>
 <p>
-A new folder will be created, "osTicket-v1.15.8". Open the folder and you will see two other folders, "scripts" and "upload". Copy the "upload" folder into "C:\inetpub\wwwroot". ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A new folder will be created, "osTicket-v1.15.8". Open the folder and you will see two other folders, "scripts" and "upload". Copy the "upload" folder into "C:\inetpub\wwwroot". 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1620" height="978" alt="image" src="https://github.com/user-attachments/assets/1abe56e8-ccb7-4fb7-b016-3c053cd2bedb" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Within "C:\inetpub\wwwroot", rename "upload" to "os Ticket". Reload IIS (Open IIS, Stop and Start the server).  
 </p>
 <br /> 
 
