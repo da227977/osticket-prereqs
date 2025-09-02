@@ -104,7 +104,7 @@ Go back to osTicket Installer website and click on "Continue" and fill in requir
 <img width="1384" height="1154" alt="image" src="https://github.com/user-attachments/assets/d089b15e-cd70-481c-9e9a-93038302488e" />
 </p>
 <p>
-Create a database specific to osTicket and provide credentials. Go to "osTicket-Installation-Files" folder, find and install "HeidiSQL". Once installed click on "New" and then fill in the "User" (root) and "Password" (root), then click "Open". A connenction will then be opened to our database. In the upper left click on the dolphin symbol "Unnamed", then "Create new" and "Database". For database name type "osTicket" and click "Ok". Database has now been created.  
+Create a database specific to osTicket and provide credentials. Go to "osTicket-Installation-Files" folder, find and install "HeidiSQL". Once installed click on "New" and then fill in the "User" (root) and "Password" (root), then click "Open". A connenction will then be opened to the database. In the upper left click on the dolphin symbol "Unnamed", then "Create new" and "Database". For database name type "osTicket" and click "Ok". Database has now been created.  
 </p>
 <br />
 
